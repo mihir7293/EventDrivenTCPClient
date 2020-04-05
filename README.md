@@ -1,4 +1,4 @@
-# EventDrivenTcpClient
+# EventDrivenTCPClient
 This repo contains EventDrivenTCPClient.cs which was taken from https://www.daniweb.com/programming/software-development/code/422291/user-friendly-asynchronous-event-driven-tcp-client
 
 Due to updates in later versions of .Net, Framework 4.x onwards, if BeginConnect is called asynchronously more than once it will generate exception. 
